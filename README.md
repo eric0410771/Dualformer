@@ -99,7 +99,7 @@ For other translation tasks that are not implemented in fairseq, you can just ch
 Comparing with standard transformer and other dual learning methods
 
 
-| Model       | MLM | LM  | Reg    | Int1 |   | BLEU(De-En) | 
+| Model       | MLM | LM  | Reg    | Int1 | Rec| BLEU(De-En) | 
 | ----------- | --- | --- | ------ | ---- |---|----------- | 
 | Dualformer  | v   |     |        | v    |v  | 34.01       |
 | Dualformer  | v   |     |        | v    |   |33.60       |
